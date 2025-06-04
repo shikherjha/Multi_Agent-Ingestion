@@ -1,0 +1,13 @@
+{
+    "rfq_id": "RFQ-2025-078",
+    "requester": "Acme Industries",
+    "items": [
+      {
+        "description": "Industrial Sensors",
+        "quantity": 100,
+        "unit_price": 15.00
+      }
+    ],
+    "deadline": "2025-06-15"
+  }
+  

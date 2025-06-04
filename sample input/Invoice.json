@@ -1,0 +1,21 @@
+{
+    "invoice_id": "INV-2025-0042",
+    "date": "2025-06-01",
+    "total_amount": 1580.75,
+    "line_items": [
+      {
+        "description": "Wireless Mouse",
+        "quantity": 10,
+        "unit_price": 25.50
+      },
+      {
+        "description": "Mechanical Keyboard",
+        "quantity": 5,
+        "unit_price": 100.00
+      }
+    ],
+    "discount": 50.00,
+    "tax": 80.75,
+    "shipping_address": "123 Tech Park, Silicon Valley, CA, USA"
+  }
+  

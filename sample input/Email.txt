@@ -1,0 +1,12 @@
+From: Jane Smith <jane.smith@example.com>
+Subject: Complaint about delayed shipment
+
+Hello Support Team,
+
+I placed an order (Order #12345) on May 20, 2025, but it still hasn’t arrived. The tracking status has not updated in over a week and I’m very concerned.
+
+Please let me know the current status of my shipment and expedite delivery if possible. This is quite urgent as the items are needed for a client presentation next Monday.
+
+Thank you,
+Jane Smith
+Customer ID: CUST-9988
