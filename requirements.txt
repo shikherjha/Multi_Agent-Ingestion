@@ -1,0 +1,27 @@
+# Core LLM & Agent Framework
+langchain>=0.1.0
+langchain-community>=0.1.0
+langchain-groq>=0.1.0
+langchain
+
+# UI
+streamlit>=1.31.0
+
+# Memory store (SQLite handled via built-in sqlite3)
+sqlalchemy>=2.0.0  # Required if  using SQLite with ORM, not needed if raw sqlite3
+
+# PDF parsing
+PyMuPDF==1.23.9  # (fits Python 3.10 setup, solid for parsing PDFs)
+
+# LLM API (Groq)
+groq  
+# Optional utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.1 
+pydantic>=2.0  # for schema validation
+requests>=2.31.0  # for API calls
+
+# Compatibility
+typing-extensions>=4.5.0  # useful for forward compatibility
+
+
